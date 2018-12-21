@@ -1,0 +1,5 @@
+dependencies {
+    compile "io.ktor:ktor-jackson:$ktor_version"
+    compile "com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.9.7"
+    compile "com.fasterxml.jackson.datatype:jackson-datatype-joda:2.9.5"
+}

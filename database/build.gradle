@@ -1,0 +1,4 @@
+dependencies {
+    compile project(':use-cases')
+    compile project(':common-lib')
+}

@@ -1,0 +1,6 @@
+rootProject.name = 'ktor-sample'
+include 'infrastructure'
+include 'interfaces'
+include 'use-cases'
+include 'database'
+include 'common-lib'
