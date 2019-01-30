@@ -7,4 +7,5 @@
 - [JUnit 5](https://junit.org/junit5/), [MockK](https://github.com/mockk/mockk), [AssertJ](http://joel-costigliola.github.io/assertj/)
 
 ### How to Run
-Run main function of `infrastructure/src/main/kotlin/module/Application.kt`
+See https://ktor.io/servers/engine.html#running-the-application-from-inside-the-ide  
+Please select `ktor-sample.infrastructure.main` in "Use classpath of module".
